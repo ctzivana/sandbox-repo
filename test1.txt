@@ -1,6 +1,3 @@
 This is line #1
-<<<<<<< HEAD
 This is line #2
 This is line #3
-=======
->>>>>>> parent of d7806a7... In test1.txt add line #2
